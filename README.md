@@ -6,6 +6,8 @@ FL Studio was the music software used to play the sounds.
 # Source Programs
 * guitarbluetooth.ino : Arduino code to receive data from bluetooth modules(which receive data from the apps).
 * guitar.py : Python code which acts as interface between the arduino and FL Studio.
+* guitarfret.apk : Source code for fret app.
+* guitarstrum.apk : Source code for strum app.
 
 # Dependencies
 * Arduino IDE 1.6
